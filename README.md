@@ -6,7 +6,7 @@
 
 ##使用方法
 ##填入文件路径分别如下
-![pciture1](http://ww2.sinaimg.cn/large/be3cd04ajw1f438kt1iwmj21kw1274ad.jpg)
+![pciture1](http://ww2.sinaimg.cn/mw690/be3cd04ajw1f438kt1iwmj21kw1274ad.jpg)
 ###软件使用说明 
 
 * 填入apache根路径 作用为生成文件在apache根目录下的相对路径用于网络访问
